@@ -1,6 +1,6 @@
 Energy Load Forecasting Research
-University of Connecticut, Storrs, CT
-Research Assistant for Professor Junbo Zhao | May 2025 – Aug 2025
+at University of Connecticut
+Under the Guidance of Professor Junbo Zhao
 
 Overview:
 This repository documents my summer research on load forecasting models using real-world energy data. The project focuses on improving predictive accuracy for energy demand by leveraging time series analysis and machine learning techniques.
