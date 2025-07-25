@@ -17,7 +17,7 @@ Wind speed: RMSE of 0.763 m/s (best model: XGBoost)
 Load demand: RMSE of 251 MW (best model: XGBoost)
 
 Key Contributions:
-Implemented and compared 10+ forecasting models, identifying regression-based methods as the most reliable for energy data.
+Implemented and compared 8 forecasting models, identifying regression-based methods as the most reliable for energy data.
 
 Wrote Python pipelines for preprocessing, feature engineering, and model evaluation.
 
