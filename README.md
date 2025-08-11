@@ -3,7 +3,7 @@ at University of Connecticut
 Under the Guidance of Professor Junbo Zhao
 
 Overview:
-This repository documents my summer research on load forecasting models using real-world energy data. The project focuses on improving predictive accuracy for energy demand by leveraging time series analysis and machine learning techniques.
+This repository documents my summer research on forecasting models using real-world energy data. The project focuses on improving predictive accuracy for energy demand by leveraging time series analysis and machine learning techniques.
 
 Key Notes:
 Regression models (e.g., XGBoost) consistently outperformed pure neural network architectures (e.g., CNN, LSTM, Transformer) in forecasting tasks.
