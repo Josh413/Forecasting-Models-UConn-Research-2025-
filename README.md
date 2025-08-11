@@ -6,7 +6,7 @@ Overview:
 This repository documents my summer research on load forecasting models using real-world energy data. The project focuses on improving predictive accuracy for energy demand by leveraging time series analysis and machine learning techniques.
 
 Key Notes:
-Regression models (e.g., XGBoost, linear regression) consistently outperformed pure neural network architectures (e.g., CNN, LSTM, Transformer) in forecasting tasks.
+Regression models (e.g., XGBoost) consistently outperformed pure neural network architectures (e.g., CNN, LSTM, Transformer) in forecasting tasks.
 
 Neural networks often produced higher errors and were less stable for time-series forecasting compared to tree-based and statistical methods.
 
